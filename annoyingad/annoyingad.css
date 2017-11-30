@@ -1,0 +1,17 @@
+body#page2{
+	background-color: black;
+}
+p {
+	font-size: 180px;
+}
+
+#aiyaya{
+	font-size: 125px;
+	color: yellow;
+}
+
+#hitme{
+	position: absolute;
+	margin-top: -20px;
+	margin-left: 2px;
+}
